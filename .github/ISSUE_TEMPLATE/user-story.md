@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Epica:  Ex. `#1`
+
 ### Descripcion
 **Como**   ,  
 **Cuando**  ,  
@@ -18,5 +20,5 @@ assignees: ''
 *
 
 ### Tareas
-- [ ] Tarea 1
-- [ ] Tarea 2
+- [ ] Ex. `#1`
+- [ ] Ex. `#2`
